@@ -19,7 +19,7 @@
   <table id="myTable" class="table table-striped">
     <thead>
       <tr>
-        <th>ID</th>
+        <th>IDE</th>
         <th>Nome</th>
         <th>Data Nascimento</th>
         <th>Endereço</th>
